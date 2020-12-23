@@ -1,4 +1,4 @@
-# lightning-cli
+# lightning
 
 ## Project setup
 ```
